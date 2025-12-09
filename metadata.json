@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MoodMelody AI",
+  "description": "An AI-powered music recommender that detects your mood via webcam and curates the perfect playlist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
